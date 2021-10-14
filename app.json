@@ -1,0 +1,55 @@
+{
+    "name": "Channel Caption Editore",
+    "description": "An Channel Caption Editor bot",
+    "logo": "https://avatars.githubusercontent.com/u/84676044?s=400&u=f3e90e407c13bc18fb38baeca64da19b8ccf9052&v=4",
+    "keywords": [
+        "Captiom",
+        "Editor",
+        "For",
+        "Channel"
+    ],
+    "website": "https://t.me/joinchat/vcOhk8tX214zNGQ1",
+    "repository": "https://github.com/Killersparrow/Channel-Caption-Editor-ver1.0",
+    "success_url": "https://t.me/joinchat/vcOhk8tX214zNGQ1",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your Telegram Bot Token from @BotFather",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash from my.telegram.org or @UseTGXBot",
+            "value": ""
+        },
+        "API_ID": {
+            "description": "Your APP ID from my.telegram.org or @UseTGXBot",
+            "value": ""
+        },
+        "BUTTON_NAME": {
+            "description": "Your Caption button Name Here.. Like Join Our Channel , Join Our Group , etc",
+            "value": ""
+        },
+        "BUTTON_URL": {
+            "description": "Your caption button url here .. Like https://t.me/movie_ott",
+            "value": ""
+        },
+        "FILES_CAPTION": {
+            "description": "Enter your Custom caption here",
+            "value": ""
+        },
+        "OWNER_ID": {
+            "description": "Enter your telegram ID Here",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
