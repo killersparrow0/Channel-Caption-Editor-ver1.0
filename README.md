@@ -7,7 +7,7 @@
 
 ### Creator [JERRY](https://t.me/joinchat/vcOhk8tX214zNGQ1) , 
 
-
+THIS BOT IS FOR EDUCATIONAL PURPOSE ONLY, USING THIS CODE ILLIGALLY IS STRICTLY PROHIBITTED
 
 
 [support group ](https://t.me/joinchat/vcOhk8tX214zNGQ1)
